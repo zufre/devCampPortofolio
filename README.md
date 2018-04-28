@@ -1,4 +1,4 @@
-# DevCamp App Portofolio
+### DevCamp App Portofolio
 
 This a Ruby on Rails 5 Application that alllows user to create their own portofolios
 
